@@ -48,9 +48,9 @@ Circiter is a data science consulting firm based in Spain, helping organizations
 
 ## Contact Us
 
-🌐 [Website](https://circiter.es)
-📧 [Email](mailto:cjgb@circiter.es)
-📍 Location: Madrid, Spain
+- 🌐 [Website](https://circiter.es)
+- 📧 [Email](mailto:cjgb@circiter.es)
+- 📍 Location: Madrid, Spain
 
 ## Follow Us
 
